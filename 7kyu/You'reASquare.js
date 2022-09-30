@@ -20,12 +20,12 @@
 
 //My Solution
 
-// var isSquare = function(n){
-//     let s = Math.ceil(Math.sqrt(n))
+var isSquare = function(n){
+    let s = Math.ceil(Math.sqrt(n))
     
-//     if(s*s === n) {
-//       return true;
-//     } else{
-//         return false;
-//     }
-//   }
+    if(s*s === n) {
+      return true;
+    } else{
+        return false;
+    }
+  }

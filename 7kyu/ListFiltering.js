@@ -8,7 +8,7 @@
 
 //My Solution
 
-// function filter_list(l) {
-//     let result = l.filter(l => typeof l === 'number')
-//     return result;
-//   }
+function filter_list(l) {
+    let result = l.filter(l => typeof l === 'number')
+    return result;
+  }
